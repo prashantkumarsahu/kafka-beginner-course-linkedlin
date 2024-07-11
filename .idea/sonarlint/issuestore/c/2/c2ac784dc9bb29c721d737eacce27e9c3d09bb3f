@@ -1,0 +1,10 @@
+
+U
+java:S6213-":Rename this variable to not match a restricted identifier.(´Å£Ÿýÿÿÿÿ
+\
+java:S3457."AFormat specifiers should be used instead of string concatenation.( ÜºÏøÿÿÿÿ
+\
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(­¶ Öùÿÿÿÿ
+j
+java:S1128
+"TRemove this unused import 'org.apache.kafka.common.security.plain.PlainLoginModule'.(Ò­ÜŒ
